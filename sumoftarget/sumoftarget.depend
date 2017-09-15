@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500168176 source:d:\document\acm home\leetcode\sumoftarget\main.cpp
+	<iostream>
+	"sumoftarget.h"
+
+1500168448 d:\document\acm home\leetcode\sumoftarget\sumoftarget.h
+	<iostream>
+

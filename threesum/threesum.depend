@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1500172766 source:d:\document\acm home\leetcode\threesum\main.cpp
+	<iostream>
+	"../quicksort/quicksort.h"
+	"threesum.h"
+
+1500171571 d:\document\acm home\leetcode\quicksort\quicksort.h
+
+1500172998 d:\document\acm home\leetcode\threesum\threesum.h
+	<iostream>
+	"../quicksort/quicksort.h"
+

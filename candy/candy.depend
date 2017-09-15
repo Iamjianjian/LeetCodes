@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500433944 source:d:\document\acm home\leetcode\candy\main.cpp
+	<iostream>
+	"candy.h"
+
+1500434501 d:\document\acm home\leetcode\candy\candy.h
+	<iostream>
+

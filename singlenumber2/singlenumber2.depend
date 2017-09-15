@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500515309 source:d:\document\acm home\leetcode\singlenumber2\main.cpp
+	<iostream>
+	"singlenumbertwo.h"
+
+1500515534 d:\document\acm home\leetcode\singlenumber2\singlenumbertwo.h
+

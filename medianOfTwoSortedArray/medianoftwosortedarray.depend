@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500090207 source:d:\document\acm home\leetcode\medianoftwosortedarray\main.cpp
+	<iostream>
+	"median.h"
+
+1500090255 d:\document\acm home\leetcode\medianoftwosortedarray\median.h
+

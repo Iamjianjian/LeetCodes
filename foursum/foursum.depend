@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500342555 source:d:\document\acm home\leetcode\foursum\main.cpp
+	<iostream>
+	"foursum.h"
+
+1500342621 d:\document\acm home\leetcode\foursum\foursum.h
+	<iostream>
+
