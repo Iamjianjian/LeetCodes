@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500535541 source:d:\document\acm home\labyrinth\main.c
+	<stdio.h>
+	<stdlib.h>
+

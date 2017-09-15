@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500347711 source:d:\document\acm home\leetcode\trapping rain water\main.cpp
+	<iostream>
+	"trapwater.h"
+
+1500347854 d:\document\acm home\leetcode\trapping rain water\trapwater.h
+
