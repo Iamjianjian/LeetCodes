@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505142446 source:d:\document\c\longestvalidparenthese\main.c
+	<stdio.h>
+	<string.h>
+

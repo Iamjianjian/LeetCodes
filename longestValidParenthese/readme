@@ -1,0 +1,3 @@
+https://leetcode.com/problems/longest-valid-parentheses/description/
+
+用静态链把前面多的"(" 链接起来 
