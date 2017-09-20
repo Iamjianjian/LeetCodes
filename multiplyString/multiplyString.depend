@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505876456 source:d:\document\leetcodes\multiplystring\main.c
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+
