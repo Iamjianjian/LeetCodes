@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507947750 source:d:\document\leetcodes\intervealingstring\main.cpp
+	<iostream>
+	<string>
+

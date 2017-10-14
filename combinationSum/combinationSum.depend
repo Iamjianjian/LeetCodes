@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506130739 source:d:\document\leetcodes\combinationsum\main.cpp
+	<iostream>
+	<algorithm>
+

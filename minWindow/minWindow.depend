@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507619372 source:d:\document\leetcodes\minwindow\main.cpp
+	<iostream>
+	<string>
+	<map>
+
